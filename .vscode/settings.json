@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/faa3cbe4-1472-48db-9506-1663bfb3a839/resourceGroups/windowsextensionrg/providers/Microsoft.Web/sites/windowsextension",
+    "appService.deploySubpath": ""
+}
